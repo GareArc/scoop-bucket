@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.0/opencode-sync_0.1.0_windows_amd64.zip",
+            "bin": [
+                "opencode-sync.exe"
+            ],
+            "hash": "893cf34cd79ccf7a714cfe8f15f524a11d8e9c8e66b77abf9fbd54a491f45fc6"
+        },
+        "arm64": {
+            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.0/opencode-sync_0.1.0_windows_arm64.zip",
+            "bin": [
+                "opencode-sync.exe"
+            ],
+            "hash": "c53d8b573221cfefe787f9ee7e4b9a777ab89a42df8a718443a70e6849eb8bbb"
+        }
+    },
+    "homepage": "https://github.com/GareArc/opencode-sync",
+    "license": "MIT",
+    "description": "Sync OpenCode configurations across machines via Git with optional encryption"
+}
