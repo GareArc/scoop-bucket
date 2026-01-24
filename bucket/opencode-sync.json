@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.6/opencode-sync_0.1.6_windows_amd64.zip",
+            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.7/opencode-sync_0.1.7_windows_amd64.zip",
             "bin": [
                 "opencode-sync.exe"
             ],
-            "hash": "617f10003d6c3d595410158a12beac19044ecb82692a12675c106b814cd346dd"
+            "hash": "97c592e184696f4f9322fd306b4a7a4b785298131b1ae11196789aa74c0895cb"
         },
         "arm64": {
-            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.6/opencode-sync_0.1.6_windows_arm64.zip",
+            "url": "https://github.com/GareArc/opencode-sync/releases/download/v0.1.7/opencode-sync_0.1.7_windows_arm64.zip",
             "bin": [
                 "opencode-sync.exe"
             ],
-            "hash": "81aed1519b9fe18f94f458fcd2b4380d4b5dfff193da0a8dac2af67c21be64d5"
+            "hash": "4ab164dbff2c57a4418d81a7d769a10c2cc58161c6c871cda3c78fb06e9adc91"
         }
     },
     "homepage": "https://github.com/GareArc/opencode-sync",
